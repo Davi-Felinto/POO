@@ -1,0 +1,183 @@
+[
+  {
+    "ContainingType": "WebApiExercicioRevisaoLogica.Controllers.CalculoBonificacaoSalarioController",
+    "Method": "CalcularBonificacaoSalario",
+    "RelativePath": "CalcularBonificacaoSalario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "salarioFuncionario",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "tempoEmpresaFuncionario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiExercicioRevisaoLogica.Controllers.DescontoLojaController",
+    "Method": "CalcularDescontoLoja",
+    "RelativePath": "CalcularDescontoLoja",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "valorLojaCliente",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "cadastroCliente",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiExercicioRevisaoLogica.Controllers.CalssificaoFaixaEtariaController",
+    "Method": "CalssificaoFaixaEtaria",
+    "RelativePath": "CalssificaoFaixaEtaria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idadePessoa",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiExercicioRevisaoLogica.Controllers.MediaNotaAlunoController",
+    "Method": "MediaNotaAlunos",
+    "RelativePath": "MediaNotaAlunos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nota1Aluno",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "nota2Aluno",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "faltaAluno",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiExercicioRevisaoLogica.Controllers.ValidacaoAcessoController",
+    "Method": "ValidacaoAcesso",
+    "RelativePath": "ValidacaoAcesso",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idadePessoa",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "senhaPessoa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "situacao",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiExercicioRevisaoLogica.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebApiExercicioRevisaoLogica.WeatherForecast, WebApiExercicioRevisaoLogica, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

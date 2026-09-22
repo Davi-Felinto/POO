@@ -1,0 +1,14 @@
+C:\Users\dav09\Faculdade\2_Semestre\Engenharia de Requisitos\AppAreaCircunferencia\AppAreaCircunferencia\bin\Debug\net10.0\AppAreaCircunferencia.exe
+C:\Users\dav09\Faculdade\2_Semestre\Engenharia de Requisitos\AppAreaCircunferencia\AppAreaCircunferencia\bin\Debug\net10.0\AppAreaCircunferencia.deps.json
+C:\Users\dav09\Faculdade\2_Semestre\Engenharia de Requisitos\AppAreaCircunferencia\AppAreaCircunferencia\bin\Debug\net10.0\AppAreaCircunferencia.runtimeconfig.json
+C:\Users\dav09\Faculdade\2_Semestre\Engenharia de Requisitos\AppAreaCircunferencia\AppAreaCircunferencia\bin\Debug\net10.0\AppAreaCircunferencia.dll
+C:\Users\dav09\Faculdade\2_Semestre\Engenharia de Requisitos\AppAreaCircunferencia\AppAreaCircunferencia\bin\Debug\net10.0\AppAreaCircunferencia.pdb
+C:\Users\dav09\Faculdade\2_Semestre\Engenharia de Requisitos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net10.0\AppAreaCircunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dav09\Faculdade\2_Semestre\Engenharia de Requisitos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net10.0\AppAreaCircunferencia.AssemblyInfoInputs.cache
+C:\Users\dav09\Faculdade\2_Semestre\Engenharia de Requisitos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net10.0\AppAreaCircunferencia.AssemblyInfo.cs
+C:\Users\dav09\Faculdade\2_Semestre\Engenharia de Requisitos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net10.0\AppAreaCircunferencia.csproj.CoreCompileInputs.cache
+C:\Users\dav09\Faculdade\2_Semestre\Engenharia de Requisitos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net10.0\AppAreaCircunferencia.dll
+C:\Users\dav09\Faculdade\2_Semestre\Engenharia de Requisitos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net10.0\refint\AppAreaCircunferencia.dll
+C:\Users\dav09\Faculdade\2_Semestre\Engenharia de Requisitos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net10.0\AppAreaCircunferencia.pdb
+C:\Users\dav09\Faculdade\2_Semestre\Engenharia de Requisitos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net10.0\AppAreaCircunferencia.genruntimeconfig.cache
+C:\Users\dav09\Faculdade\2_Semestre\Engenharia de Requisitos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net10.0\ref\AppAreaCircunferencia.dll

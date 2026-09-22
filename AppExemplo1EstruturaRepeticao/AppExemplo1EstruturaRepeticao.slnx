@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AppExemplo1EstruturaRepeticao/AppExemplo1EstruturaRepeticao.csproj" />
+  <Project Path="AppExemplo2EstruturaRepeticao/AppExemplo2EstruturaRepeticao.csproj" />
+  <Project Path="Appexemplo3EstruturaRepeticao/AppExemplo3EstruturaRepeticao.csproj" />
+  <Project Path="AppExemplo4EstruturaRepeticao/AppExemplo4EstruturaRepeticao.csproj" />
+</Solution>

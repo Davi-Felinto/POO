@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AppExercicio6Vetor10Numeros/1.0.0": {
+        "runtime": {
+          "AppExercicio6Vetor10Numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppExercicio6Vetor10Numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

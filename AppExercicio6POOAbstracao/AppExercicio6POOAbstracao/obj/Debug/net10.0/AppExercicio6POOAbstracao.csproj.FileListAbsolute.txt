@@ -1,0 +1,15 @@
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\bin\Debug\net10.0\AppExercicio6POOAbstracao.exe
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\bin\Debug\net10.0\AppExercicio6POOAbstracao.deps.json
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\bin\Debug\net10.0\AppExercicio6POOAbstracao.runtimeconfig.json
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\bin\Debug\net10.0\AppExercicio6POOAbstracao.dll
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\bin\Debug\net10.0\AppExercicio6POOAbstracao.pdb
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\obj\Debug\net10.0\AppExercicio6POOAbstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\obj\Debug\net10.0\AppExercicio6POOAbstracao.AssemblyInfoInputs.cache
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\obj\Debug\net10.0\AppExercicio6POOAbstracao.AssemblyInfo.cs
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\obj\Debug\net10.0\AppExercicio6POOAbstracao.csproj.CoreCompileInputs.cache
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\obj\Debug\net10.0\AppExercicio6POOAbstracao.dll
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\obj\Debug\net10.0\refint\AppExercicio6POOAbstracao.dll
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\obj\Debug\net10.0\AppExercicio6POOAbstracao.pdb
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\obj\Debug\net10.0\AppExercicio6POOAbstracao.genruntimeconfig.cache
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\obj\Debug\net10.0\ref\AppExercicio6POOAbstracao.dll
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExercicio6POOAbstracao\AppExercicio6POOAbstracao\obj\Debug\net10.0\AppExerc.A82D6747.Up2Date

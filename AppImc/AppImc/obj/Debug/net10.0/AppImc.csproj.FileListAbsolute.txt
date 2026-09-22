@@ -1,0 +1,14 @@
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppImc\AppImc\bin\Debug\net10.0\AppImc.exe
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppImc\AppImc\bin\Debug\net10.0\AppImc.deps.json
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppImc\AppImc\bin\Debug\net10.0\AppImc.runtimeconfig.json
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppImc\AppImc\bin\Debug\net10.0\AppImc.dll
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppImc\AppImc\bin\Debug\net10.0\AppImc.pdb
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppImc\AppImc\obj\Debug\net10.0\AppImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppImc\AppImc\obj\Debug\net10.0\AppImc.AssemblyInfoInputs.cache
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppImc\AppImc\obj\Debug\net10.0\AppImc.AssemblyInfo.cs
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppImc\AppImc\obj\Debug\net10.0\AppImc.csproj.CoreCompileInputs.cache
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppImc\AppImc\obj\Debug\net10.0\AppImc.dll
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppImc\AppImc\obj\Debug\net10.0\refint\AppImc.dll
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppImc\AppImc\obj\Debug\net10.0\AppImc.pdb
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppImc\AppImc\obj\Debug\net10.0\AppImc.genruntimeconfig.cache
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppImc\AppImc\obj\Debug\net10.0\ref\AppImc.dll

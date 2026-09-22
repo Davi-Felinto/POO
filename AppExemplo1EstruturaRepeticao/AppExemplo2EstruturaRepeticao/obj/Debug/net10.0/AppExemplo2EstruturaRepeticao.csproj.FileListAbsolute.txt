@@ -1,0 +1,14 @@
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExemplo1EstruturaRepeticao\AppExemplo2EstruturaRepeticao\obj\Debug\net10.0\AppExemplo2EstruturaRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExemplo1EstruturaRepeticao\AppExemplo2EstruturaRepeticao\obj\Debug\net10.0\AppExemplo2EstruturaRepeticao.AssemblyInfoInputs.cache
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExemplo1EstruturaRepeticao\AppExemplo2EstruturaRepeticao\obj\Debug\net10.0\AppExemplo2EstruturaRepeticao.AssemblyInfo.cs
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExemplo1EstruturaRepeticao\AppExemplo2EstruturaRepeticao\obj\Debug\net10.0\AppExemplo2EstruturaRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExemplo1EstruturaRepeticao\AppExemplo2EstruturaRepeticao\bin\Debug\net10.0\AppExemplo2EstruturaRepeticao.exe
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExemplo1EstruturaRepeticao\AppExemplo2EstruturaRepeticao\bin\Debug\net10.0\AppExemplo2EstruturaRepeticao.deps.json
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExemplo1EstruturaRepeticao\AppExemplo2EstruturaRepeticao\bin\Debug\net10.0\AppExemplo2EstruturaRepeticao.runtimeconfig.json
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExemplo1EstruturaRepeticao\AppExemplo2EstruturaRepeticao\bin\Debug\net10.0\AppExemplo2EstruturaRepeticao.dll
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExemplo1EstruturaRepeticao\AppExemplo2EstruturaRepeticao\bin\Debug\net10.0\AppExemplo2EstruturaRepeticao.pdb
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExemplo1EstruturaRepeticao\AppExemplo2EstruturaRepeticao\obj\Debug\net10.0\AppExemplo2EstruturaRepeticao.dll
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExemplo1EstruturaRepeticao\AppExemplo2EstruturaRepeticao\obj\Debug\net10.0\refint\AppExemplo2EstruturaRepeticao.dll
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExemplo1EstruturaRepeticao\AppExemplo2EstruturaRepeticao\obj\Debug\net10.0\AppExemplo2EstruturaRepeticao.pdb
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExemplo1EstruturaRepeticao\AppExemplo2EstruturaRepeticao\obj\Debug\net10.0\AppExemplo2EstruturaRepeticao.genruntimeconfig.cache
+C:\Users\dav09\Faculdade\2_Semestre\POO\AppExemplo1EstruturaRepeticao\AppExemplo2EstruturaRepeticao\obj\Debug\net10.0\ref\AppExemplo2EstruturaRepeticao.dll

@@ -1,0 +1,14 @@
+C:\Users\davi.felinto\source\repos\AppExercicioRevisaoLogicaBCC\AppExercicio6Vetor10Numeros\bin\Debug\net10.0\AppExercicio6Vetor10Numeros.exe
+C:\Users\davi.felinto\source\repos\AppExercicioRevisaoLogicaBCC\AppExercicio6Vetor10Numeros\bin\Debug\net10.0\AppExercicio6Vetor10Numeros.deps.json
+C:\Users\davi.felinto\source\repos\AppExercicioRevisaoLogicaBCC\AppExercicio6Vetor10Numeros\bin\Debug\net10.0\AppExercicio6Vetor10Numeros.runtimeconfig.json
+C:\Users\davi.felinto\source\repos\AppExercicioRevisaoLogicaBCC\AppExercicio6Vetor10Numeros\bin\Debug\net10.0\AppExercicio6Vetor10Numeros.dll
+C:\Users\davi.felinto\source\repos\AppExercicioRevisaoLogicaBCC\AppExercicio6Vetor10Numeros\bin\Debug\net10.0\AppExercicio6Vetor10Numeros.pdb
+C:\Users\davi.felinto\source\repos\AppExercicioRevisaoLogicaBCC\AppExercicio6Vetor10Numeros\obj\Debug\net10.0\AppExercicio6Vetor10Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davi.felinto\source\repos\AppExercicioRevisaoLogicaBCC\AppExercicio6Vetor10Numeros\obj\Debug\net10.0\AppExercicio6Vetor10Numeros.AssemblyInfoInputs.cache
+C:\Users\davi.felinto\source\repos\AppExercicioRevisaoLogicaBCC\AppExercicio6Vetor10Numeros\obj\Debug\net10.0\AppExercicio6Vetor10Numeros.AssemblyInfo.cs
+C:\Users\davi.felinto\source\repos\AppExercicioRevisaoLogicaBCC\AppExercicio6Vetor10Numeros\obj\Debug\net10.0\AppExercicio6Vetor10Numeros.csproj.CoreCompileInputs.cache
+C:\Users\davi.felinto\source\repos\AppExercicioRevisaoLogicaBCC\AppExercicio6Vetor10Numeros\obj\Debug\net10.0\AppExercicio6Vetor10Numeros.dll
+C:\Users\davi.felinto\source\repos\AppExercicioRevisaoLogicaBCC\AppExercicio6Vetor10Numeros\obj\Debug\net10.0\refint\AppExercicio6Vetor10Numeros.dll
+C:\Users\davi.felinto\source\repos\AppExercicioRevisaoLogicaBCC\AppExercicio6Vetor10Numeros\obj\Debug\net10.0\AppExercicio6Vetor10Numeros.pdb
+C:\Users\davi.felinto\source\repos\AppExercicioRevisaoLogicaBCC\AppExercicio6Vetor10Numeros\obj\Debug\net10.0\AppExercicio6Vetor10Numeros.genruntimeconfig.cache
+C:\Users\davi.felinto\source\repos\AppExercicioRevisaoLogicaBCC\AppExercicio6Vetor10Numeros\obj\Debug\net10.0\ref\AppExercicio6Vetor10Numeros.dll

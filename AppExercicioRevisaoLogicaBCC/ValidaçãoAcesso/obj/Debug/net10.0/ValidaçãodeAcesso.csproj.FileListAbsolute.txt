@@ -1,0 +1,4 @@
+C:\Users\dav09\Faculdade\2_Semestre\POO\ValidaçãodeAcesso\ValidaçãodeAcesso\obj\Debug\net10.0\ValidaçãodeAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dav09\Faculdade\2_Semestre\POO\ValidaçãodeAcesso\ValidaçãodeAcesso\obj\Debug\net10.0\ValidaçãodeAcesso.AssemblyInfoInputs.cache
+C:\Users\dav09\Faculdade\2_Semestre\POO\ValidaçãodeAcesso\ValidaçãodeAcesso\obj\Debug\net10.0\ValidaçãodeAcesso.AssemblyInfo.cs
+C:\Users\dav09\Faculdade\2_Semestre\POO\ValidaçãodeAcesso\ValidaçãodeAcesso\obj\Debug\net10.0\ValidaçãodeAcesso.csproj.CoreCompileInputs.cache

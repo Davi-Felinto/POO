@@ -1,0 +1,115 @@
+Exemplo 1:
+
+double raio, areaCircunferencia;
+Console.WriteLine("Informe o valor da circunferência: ");
+raio = Convert.ToDouble(Console.ReadLine());
+//areaCircunferencia = 3.1416 * raio * raio;
+areaCircunferencia = Math.Round(Math.PI * Math.Pow(raio, 2), 2);
+Console.WriteLine($"A area da circunferência é: {areaCircunferencia}.");
+Console.ReadKey();
+
+Exemplo 2:
+
+double peso, altura, imc;
+string classificacaoImc;
+
+Console.WriteLine("Informe seu peso (em kg): ");
+peso = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Informe sua altura (em metros): ");
+altura = Convert.ToDouble(Console.ReadLine());
+
+imc = Math.Round(peso / Math.Pow(altura, 2),2);
+if (imc < 18.5)
+{
+    classificacaoImc = "Pessoa abaixo do peso";
+
+}else if((imc >= 18.5) && (imc <= 24.9))
+{
+    classificacaoImc = "Pessoa com peso normal";
+}else if((imc > 24.9) && (imc <= 29.9))
+{
+    classificacaoImc = "Pessoa com sobrepeso";
+}
+else
+{
+    classificacaoImc = "Pessoa com obesa";
+}
+
+Console.WriteLine("Classificação do IMC");
+Console.WriteLine($"IMC = {imc}");
+Console.WriteLine($"Classificação IMC = {classificacaoImc}");
+Console.ReadKey();
+
+Exemplo 3:
+
+int idade;
+string resultado;
+
+Console.WriteLine("Informe sua idade para saber se você pode ou não tirar a CNH");
+idade = Convert.ToInt32(Console.ReadLine());
+
+//Operador Ternario
+resultado = (idade >= 18) ? "Essa pessoa pode tirar a CNH" : "Essa pessoa não pode tirar a CNH";
+
+//if (idade >= 18)
+//{
+//    resultado = "Essa pessoa pode tirar a CNH";
+//}
+//else
+//{
+//    resultado = "Essa pessoa não pode tirar a CNH"
+//}
+
+Console.WriteLine(resultado);
+
+Exemplo 4:
+
+int notaAluno;
+string resultado;
+
+Console.WriteLine("Digite a nota do aluno: ");
+notaAluno = Convert.ToInt32(Console.ReadLine());
+
+resultado = (notaAluno >= 7) ? "Aluno Aprovado" 
+            : ((notaAluno <= 5) && (notaAluno > 7)) ? 
+            "Aluno em Recuperação" : "Aluno Reprovado";
+
+Console.WriteLine(resultado);
+Console.ReadKey();
+
+Exemplo 5:
+
+int numeroDia;
+string diaSemana = "";
+
+Console.WriteLine("informe um dia entre 1 e 7 para saber o dia da semana");
+numeroDia = Convert.ToInt32(Console.ReadLine());
+
+switch (numeroDia)
+{
+    case 1:
+        diaSemana = "Esse numero corresponde ao Domingo";
+        break;
+    case 2:
+        diaSemana = "Esse numero corresponde a Segunda-feira";
+        break;
+    case 3:
+        diaSemana = "Esse numero corresponde a Terça-feira";
+        break;
+    case 4:
+        diaSemana = "Esse numero corresponde a Quarta-feira";
+        break;
+    case 5:
+        diaSemana = "Esse numero corresponde a Quinta-feira";
+        break;
+    case 6:
+        diaSemana = "Esse numero corresponde a Sexta-feira";
+        break;
+    case 7:
+        diaSemana = "Esse numero corresponde a Sabado";
+        break;
+    default:
+        Console.WriteLine("informe um dia da semana entre 1 e 7");
+        break;
+}
+Console.WriteLine(diaSemana);
